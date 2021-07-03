@@ -1,6 +1,11 @@
 # Online Self-Disllation 
 This repo contains the code and [Slides](https://docs.google.com/presentation/d/1eCF1Ijya7bVu2fXUnvucS-WPuzYVSB84MQofq686LHM/edit?usp=sharing) for our project "Online Distillation for Few-Shot Learning". 
 
+## Team Members
+Sihan Liu (sihan@bu.edu)
+Yixuan Zhang (yixuanz@bu.edu)
+Yang Yu (yuyang00@bu.edu)
+
 ## Installation
 
 This repo was tested with Ubuntu 16.04.5 LTS, Python 3.5, PyTorch 0.4.0, and CUDA 9.0. However, it should be compatible with recent PyTorch versions >=0.4.0
